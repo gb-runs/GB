@@ -5,6 +5,8 @@
 * `mkdocs serve` - Start the live-reloading docs serve
 * `mkdocs build` - Build the documentation site
 * `mkdocs -h` - Print help message exit
+* `mkdocs gh-deploy` - 
+
 
 ## Project layout
 
